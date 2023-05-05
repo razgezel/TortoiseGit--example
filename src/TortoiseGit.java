@@ -1,8 +1,8 @@
 
-public class Assignment02Q01 {
+public class TortoiseGit {
 
 	public static void main(String[] args) {
-		System.out.println("Raz Gezel");
+		System.out.println("Student name: Raz Gezel");
 	}
 
 }
